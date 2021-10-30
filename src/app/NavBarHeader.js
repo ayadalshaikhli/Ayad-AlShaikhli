@@ -38,7 +38,7 @@ function NavBarHeader({ timeline }) {
               <Nav.Link href="#second">Work</Nav.Link>
 
               <Nav.Link href="#experience">Experience</Nav.Link>
-              <Nav.Link eventKey={2} href="#memes">
+              <Nav.Link eventKey={2} href="#contact">
                 Contact
               </Nav.Link>
             </Nav>

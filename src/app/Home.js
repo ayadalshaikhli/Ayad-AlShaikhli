@@ -4,6 +4,7 @@ import IMAGES from "../Images/images";
 import gsap, { TweenMax, Expo } from "gsap";
 import Social from "./components/Social";
 import Work from "./components/Work";
+import Contact from "./components/Contact";
 
 function Home() {
   let block1 = useRef(null);
@@ -292,6 +293,7 @@ function Home() {
         </div>
       </section>
       <Work />
+      <Contact />
     </div>
   );
 }
