@@ -31,11 +31,12 @@ export default function Work() {
           <div class="block-list">
             <div class="block-list__item">
               <div class="block-list__item-inner">
-                <a href="https://ayadalshaikhli.github.io/moviefinder/">
+                <a href="https://tatoteatro.herokuapp.com/">
                   <img src={IMAGES.moviefinderLogo} class="card img" alt="" />
                   <div class="card-box">
-                    <h1>MovieFinder</h1>
-                    <p>JavaScript , HTML,CSS , jQuery</p>
+                    <h1>Teatro</h1>
+                    <p>Watch your favorite shows and movies</p>
+
                     <a href="https://github.com/ayadalshaikhli/apiproject">
                       <FaGithub className="" />
                     </a>
@@ -49,7 +50,7 @@ export default function Work() {
                   <img src={IMAGES.DeliciosooLogo} class="card img" alt="" />
                   <div class="card-box">
                     <h1>Delicioso</h1>
-                    <p>JavaScript , HTML,CSS , jQuery</p>
+                    <p>Search for recipes based on your ingredients</p>
                     <a href="https://github.com/ayadalshaikhli/Delicioso">
                       <FaGithub className="" />
                     </a>
@@ -63,8 +64,22 @@ export default function Work() {
                   <img src={IMAGES.weatherproject} class="card img" alt="" />
                   <div class="card-box">
                     <h1>Weather Project</h1>
-                    <p>JavaScript , HTML,CSS , jQuery</p>
+                    <p>Look up the up coming forcast</p>
                     <a href="https://github.com/ayadalshaikhli/Weather-Rader">
+                      <FaGithub className="" />
+                    </a>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="block-list__item">
+              <div class="block-list__item-inner">
+                <a href="https://startying-ayadalshaikhli.vercel.app/">
+                  <img src={IMAGES.techLogo} class="card img" alt="" />
+                  <div class="card-box">
+                    <h1>TatoMaaNGe</h1>
+                    <p>Professional Top Nature Hair Brush Shopify</p>
+                    <a href="https://github.com/ayadalshaikhli/starting-code">
                       <FaGithub className="" />
                     </a>
                   </div>
@@ -77,7 +92,7 @@ export default function Work() {
                   <img src={IMAGES.dayplannerLogo} class="card img" alt="" />
                   <div class="card-box">
                     <h1>Day Planner</h1>
-                    <p>JavaScript , HTML,CSS , jQuery</p>
+                    <p>Start planning your day hour by hour</p>
                     <a href="https://github.com/ayadalshaikhli/dayplanner">
                       <FaGithub className="" />
                     </a>
@@ -91,7 +106,7 @@ export default function Work() {
                   <img src={IMAGES.ballfinderLogo} class="card img" alt="" />
                   <div class="card-box">
                     <h1>Ball Finder</h1>
-                    <p>JavaScript , HTML,CSS , jQuery</p>
+                    <p>Search for upcoming event for your favorite team</p>
                     <a href="https://github.com/ayadalshaikhli">
                       <FaGithub className="" />
                     </a>
@@ -99,20 +114,7 @@ export default function Work() {
                 </a>
               </div>
             </div>
-            <div class="block-list__item">
-              <div class="block-list__item-inner">
-                <a href="https://frozen-lowlands-84809.herokuapp.com/">
-                  <img src={IMAGES.techLogo} class="card img" alt="" />
-                  <div class="card-box">
-                    <h1>Tech Blog</h1>
-                    <p>JavaScript , HTML,CSS , jQuery</p>
-                    <a href="https://github.com/ayadalshaikhli/Tech-blog">
-                      <FaGithub className="" />
-                    </a>
-                  </div>
-                </a>
-              </div>
-            </div>
+
             <div class="block-list__item">
               <div class="block-list__item-inner">
                 <a href="https://ayadalshaikhli.github.io/ledyanailart/">
